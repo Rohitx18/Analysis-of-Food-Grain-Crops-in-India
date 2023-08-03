@@ -1,6 +1,6 @@
 # Food Production Analysis Visualization with Tableau
 
-![Food Production Analysis]
+Food Production Analysis
 
 ## Overview
 
